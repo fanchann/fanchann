@@ -7,8 +7,6 @@
 
 ## KNTL (Keep Never Tired Learning)
 
-![](https://c.tenor.com/ogVQTasAMTMAAAAC/anime-houtarou.gif)
+<img align="left" alt="fanchann's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanchann&theme=radical"/>
 
-<img align="left" alt="fanchann's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanchann&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
-
-<img align="right" alt="fanchann's github stats" src="https://github-readme-stats.vercel.app/api?username=fanchann&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<img align="right" alt="fanchann's github stats" src="https://github-readme-stats.vercel.app/api?username=fanchann&theme=radical"/>
