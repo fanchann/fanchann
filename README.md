@@ -1,7 +1,7 @@
 
 ## Hi I'm Fanny Arif Nasrudin
 
-🧠 I'm currently learning Javascript & NodeJS
+🧠 I will use every free hour to study. 
 
 ⚡️ Fun fact im Human
 
