@@ -6,7 +6,6 @@
 ⚡️ Fun fact im Human
 
 ## KNTL (Keep Never Tired Learning)
-Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]("https://github-readme-stats.vercel.app/api?username=fanchann&theme=radical)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fanchann&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=fanchann&theme=radical)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fanchann&theme=radical)
 [![@fanchannn's Holopin board](https://holopin.io/api/user/board?user=fanchannn)](https://holopin.io/@fanchannn)
